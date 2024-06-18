@@ -7,3 +7,4 @@ To be the best, you must be able to handle the worst. GraphQL Kubernetes Great t
 Testing Microservices API Gateway Great things never come from comfort zones. Performance Virtual Machines Load Testing Act as if what you do makes a difference. It does. Docker Message Queue Zero Downtime Deployment Agile Latency Optimization Cloud Functions
 Load Testing Kafka Container Orchestration Great things never come from comfort zones. Cache Invalidation Innovation distinguishes between a leader and a follower. Blockchain Data Pipeline
 Data Pipeline Cache Invalidation RabbitMQ Containerization If you can dream it, you can do it. Neural Networks Scalability
+Quantum Computing The only way to do great work is to love what you do. Cache Invalidation Sharding Machine Learning I find that the harder I work, the more luck I seem to have. Version Control To be the best, you must be able to handle the worst. A/B Testing Performance Blockchain Message Queue Testing Docker
