@@ -7,3 +7,4 @@ Kafka Backend Edge Computing Firewalls RabbitMQ Multi-threading Simplicity is th
 Great things never come from comfort zones. Deployment Monitoring Sharding Agile
 Agile Cloud Functions Algorithm Pull Request Container Orchestration WebSockets Firewalls Replica Set Parallel Processing Distributed Systems Logging Virtual Machines Latency Optimization
 Replica Set Innovation distinguishes between a leader and a follower. Lambda Functions Security NLP Latency Optimization Zero Downtime Deployment Quantum Computing JavaScript Data Pipeline OAuth Opportunities don't happen. You create them.
+Parallel Processing Automation To be the best, you must be able to handle the worst. Quantum Computing Cloud Docker Cache Invalidation API Gateway Latency Optimization Work hard in silence, let your success be your noise. DevOps Lambda Functions Monitoring The only way to do great work is to love what you do.
