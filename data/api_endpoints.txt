@@ -13,3 +13,4 @@ IoT Scalability Server Response Stay hungry, stay foolish. Logging The only way 
 Framework Don't be afraid to give up the good to go for the great. Data Pipeline Blockchain JavaScript Artificial Intelligence Load Balancing Server Response Difficult roads often lead to beautiful destinations. Data Science Message Queue Scalability Lambda Functions Algorithm Dream big and dare to fail.
 Artificial Intelligence Do what you love and the money will follow. Code Review A/B Testing Automation Kafka Agile Virtual Machines Event Sourcing Python CI/CD Database Containerization
 Python Load Testing JavaScript Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Monitoring Security
+Edge Computing Algorithm Replica Set Pull Request To be the best, you must be able to handle the worst.
