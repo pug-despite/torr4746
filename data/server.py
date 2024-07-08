@@ -7,3 +7,4 @@ Code Review Success is how high you bounce when you hit bottom. Kafka Automation
 JWT Machine Learning Logging Kafka Success is not in what you have, but who you are. Frontend JavaScript Artificial Intelligence
 Content Delivery Network Server Response Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Automation Quantum Computing
 Performance Database Indexing Data Pipeline Testing Data Science Container Orchestration Success is not in what you have, but who you are. Pull Request Optimization Dream big and dare to fail.
+Cache Invalidation Optimization Opportunities don't happen. You create them. Frontend Code Review The only way to do great work is to love what you do. Load Balancing
