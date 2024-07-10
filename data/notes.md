@@ -11,3 +11,4 @@ JWT Multi-threading Happiness is not something ready made. It comes from your ow
 Big Data IoT Lambda Functions If you can dream it, you can do it. Neural Networks
 Python Sharding Deployment NLP CI/CD
 NLP Monitoring Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. WebSockets Containerization Great things never come from comfort zones. Stay hungry, stay foolish. Pull Request Distributed Systems Data Science Big Data
+Cloud API Microservices Kafka NLP JWT Parallel Processing
