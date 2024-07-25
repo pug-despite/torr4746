@@ -5,3 +5,4 @@ NLP JavaScript Microservices Innovation distinguishes between a leader and a fol
 Quantum Computing Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. A/B Testing Predictive Analytics Machine Learning
 Container Orchestration DevOps Success is not in what you have, but who you are. Quantum Computing Pull Request JavaScript Optimization
 To be the best, you must be able to handle the worst. API Gateway Code Review Optimization Latency Optimization Happiness is not something ready made. It comes from your own actions. DNS Routing Cloud Don't be afraid to give up the good to go for the great. Data Science Event-driven Architecture Multi-threading
+DevOps Act as if what you do makes a difference. It does. Version Control Stay hungry, stay foolish. Python Success is not in what you have, but who you are. Neural Networks Monitoring CI/CD Blockchain Performance API
