@@ -10,3 +10,4 @@ Success usually comes to those who are too busy to be looking for it. Stay hungr
 JWT Multi-threading Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Act as if what you do makes a difference. It does. Monitoring Work hard in silence, let your success be your noise. If you can dream it, you can do it. A/B Testing Stay hungry, stay foolish.
 Big Data IoT Lambda Functions If you can dream it, you can do it. Neural Networks
 Python Sharding Deployment NLP CI/CD
+NLP Monitoring Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. WebSockets Containerization Great things never come from comfort zones. Stay hungry, stay foolish. Pull Request Distributed Systems Data Science Big Data
