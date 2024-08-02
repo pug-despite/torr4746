@@ -9,3 +9,4 @@ Docker Kafka Message Queue Don't be afraid to give up the good to go for the gre
 Stay hungry, stay foolish. Multi-threading To be the best, you must be able to handle the worst. Scalability Success is how high you bounce when you hit bottom. API Gateway Framework Python Blockchain Docker Code Review
 Server Response Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. OAuth Container Orchestration Parallel Processing GraphQL Docker Frontend Neural Networks
 Code Review Latency Optimization Distributed Systems Kubernetes DNS Routing UX Optimization Artificial Intelligence Python React Event-driven Architecture
+Don't be afraid to give up the good to go for the great. Optimization Multi-threading Distributed Systems OAuth WebSockets Load Balancing Success is how high you bounce when you hit bottom.
