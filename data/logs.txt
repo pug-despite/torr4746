@@ -10,3 +10,4 @@ Python Backend Message Queue Happiness is not something ready made. It comes fro
 Do what you love and the money will follow. Database Indexing Simplicity is the ultimate sophistication. Neural Networks JavaScript Big Data
 Logging Security Backend GraphQL Event-driven Architecture Stay hungry, stay foolish. Lambda Functions IoT Container Orchestration Pull Request Kubernetes
 Automation Docker RabbitMQ Security CI/CD The only way to do great work is to love what you do. Message Queue Container Orchestration Happiness is not something ready made. It comes from your own actions. JWT GraphQL Python Success doesn’t just find you. You have to go out and get it. Agile UX Optimization
+Quantum Computing Kubernetes API Gateway Blockchain Innovation distinguishes between a leader and a follower. Serverless Load Balancing Code Review Database Success doesn’t just find you. You have to go out and get it. Lambda Functions
