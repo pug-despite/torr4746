@@ -9,3 +9,4 @@ JavaScript Quantum Computing NLP Sharding Machine Learning Work hard in silence,
 Python Backend Message Queue Happiness is not something ready made. It comes from your own actions. A/B Testing
 Do what you love and the money will follow. Database Indexing Simplicity is the ultimate sophistication. Neural Networks JavaScript Big Data
 Logging Security Backend GraphQL Event-driven Architecture Stay hungry, stay foolish. Lambda Functions IoT Container Orchestration Pull Request Kubernetes
+Automation Docker RabbitMQ Security CI/CD The only way to do great work is to love what you do. Message Queue Container Orchestration Happiness is not something ready made. It comes from your own actions. JWT GraphQL Python Success doesn’t just find you. You have to go out and get it. Agile UX Optimization
