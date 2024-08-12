@@ -3,3 +3,4 @@ Data Pipeline Virtual Machines DNS Routing Big Data React Opportunities don't ha
 Monitoring Containerization Database Indexing Artificial Intelligence Backend
 API Gateway Database Success doesn’t just find you. You have to go out and get it. Cloud Big Data A/B Testing DevOps Data Pipeline Simplicity is the ultimate sophistication. Security
 Virtual Machines Algorithm Simplicity is the ultimate sophistication. Replica Set Innovation distinguishes between a leader and a follower. RabbitMQ Edge Computing Don't be afraid to give up the good to go for the great. A/B Testing Difficult roads often lead to beautiful destinations.
+To be the best, you must be able to handle the worst. GraphQL Kubernetes Great things never come from comfort zones. Firewalls Message Queue JWT Database NLP The only way to do great work is to love what you do.
