@@ -4,3 +4,4 @@ Pull Request Message Queue IoT Act as if what you do makes a difference. It does
 Machine Learning Algorithm DNS Routing Security DevOps
 JWT Monitoring DevOps Data Pipeline Success usually comes to those who are too busy to be looking for it. OAuth DNS Routing Cloud Data Science Zero Downtime Deployment
 Algorithm Agile Scalability API Success is how high you bounce when you hit bottom. Quantum Computing Performance Neural Networks Microservices Kafka Success doesn’t just find you. You have to go out and get it. Parallel Processing Server Response Code Review
+Containerization API Lambda Functions Quantum Computing I find that the harder I work, the more luck I seem to have. Data Science DevOps Opportunities don't happen. You create them.

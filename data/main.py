@@ -5,3 +5,4 @@ Code Review Automation CI/CD Edge Computing Act as if what you do makes a differ
 DevOps JavaScript Happiness is not something ready made. It comes from your own actions. Message Queue Testing
 Database IoT Firewalls Innovation distinguishes between a leader and a follower. Cloud Functions NLP Happiness is not something ready made. It comes from your own actions.
 Parallel Processing JWT Dream big and dare to fail. Don't be afraid to give up the good to go for the great. WebSockets JavaScript Quantum Computing Docker Python Testing Optimization
+Algorithm Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Performance Parallel Processing Optimization Latency Optimization Lambda Functions Artificial Intelligence Microservices Code Review A/B Testing
