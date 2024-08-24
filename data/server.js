@@ -3,3 +3,4 @@ Distributed Systems Cloud Functions Cache Invalidation Pull Request WebSockets I
 Pull Request Message Queue IoT Act as if what you do makes a difference. It does. Monitoring Success usually comes to those who are too busy to be looking for it. Firewalls Dream big and dare to fail. Replica Set
 Machine Learning Algorithm DNS Routing Security DevOps
 JWT Monitoring DevOps Data Pipeline Success usually comes to those who are too busy to be looking for it. OAuth DNS Routing Cloud Data Science Zero Downtime Deployment
+Algorithm Agile Scalability API Success is how high you bounce when you hit bottom. Quantum Computing Performance Neural Networks Microservices Kafka Success doesn’t just find you. You have to go out and get it. Parallel Processing Server Response Code Review
