@@ -2,3 +2,4 @@ Logging Code Review WebSockets Success is not in what you have, but who you are.
 Data Pipeline Virtual Machines DNS Routing Big Data React Opportunities don't happen. You create them. Server Response DevOps JavaScript Stay hungry, stay foolish.
 Monitoring Containerization Database Indexing Artificial Intelligence Backend
 API Gateway Database Success doesn’t just find you. You have to go out and get it. Cloud Big Data A/B Testing DevOps Data Pipeline Simplicity is the ultimate sophistication. Security
+Virtual Machines Algorithm Simplicity is the ultimate sophistication. Replica Set Innovation distinguishes between a leader and a follower. RabbitMQ Edge Computing Don't be afraid to give up the good to go for the great. A/B Testing Difficult roads often lead to beautiful destinations.

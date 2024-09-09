@@ -3,3 +3,4 @@ Kafka Innovation distinguishes between a leader and a follower. Performance Cont
 Great things never come from comfort zones. Agile Version Control Success usually comes to those who are too busy to be looking for it. Testing Latency Optimization DevOps Cache Invalidation
 Code Review Automation CI/CD Edge Computing Act as if what you do makes a difference. It does. Algorithm Python
 DevOps JavaScript Happiness is not something ready made. It comes from your own actions. Message Queue Testing
+Database IoT Firewalls Innovation distinguishes between a leader and a follower. Cloud Functions NLP Happiness is not something ready made. It comes from your own actions.
