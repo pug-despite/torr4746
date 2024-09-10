@@ -6,3 +6,4 @@ Logging UX Optimization Quantum Computing Microservices Do what you love and the
 Framework Success usually comes to those who are too busy to be looking for it. CI/CD Testing Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Monitoring Machine Learning Parallel Processing
 JavaScript Blockchain Performance Data Pipeline Difficult roads often lead to beautiful destinations. Edge Computing Distributed Systems Database Indexing Work hard in silence, let your success be your noise. Latency Optimization
 JavaScript Quantum Computing NLP Sharding Machine Learning Work hard in silence, let your success be your noise.
+Python Backend Message Queue Happiness is not something ready made. It comes from your own actions. A/B Testing
