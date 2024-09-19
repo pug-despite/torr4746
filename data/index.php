@@ -7,3 +7,4 @@ Don't be afraid to give up the good to go for the great. Agile Testing Firewalls
 Serverless Cloud Functions The only way to do great work is to love what you do. Dream big and dare to fail. Kubernetes RabbitMQ Cache Invalidation Edge Computing API Gateway Framework Security Load Balancing Automation
 Message Queue Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. WebSockets Framework
 Agile JWT Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. WebSockets UX Optimization DevOps Blockchain Performance Predictive Analytics Machine Learning Load Testing Big Data Security Success is not in what you have, but who you are.
+Cache Invalidation RabbitMQ Message Queue Innovation distinguishes between a leader and a follower. API NLP Docker
