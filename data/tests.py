@@ -7,3 +7,4 @@ Database Zero Downtime Deployment DevOps Don't be afraid to give up the good to 
 Security RabbitMQ Dream big and dare to fail. DNS Routing NLP Machine Learning Docker Agile
 Database Indexing Python Load Testing Stay hungry, stay foolish. GraphQL Predictive Analytics React Algorithm Containerization
 GraphQL Automation Serverless API Parallel Processing
+Automation UX Optimization Work hard in silence, let your success be your noise. Multi-threading DevOps Backend A/B Testing Logging Containerization
