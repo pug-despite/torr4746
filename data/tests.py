@@ -6,3 +6,4 @@ Testing Event-driven Architecture Sharding Agile Success usually comes to those 
 Database Zero Downtime Deployment DevOps Don't be afraid to give up the good to go for the great. GraphQL Microservices Sharding Opportunities don't happen. You create them.
 Security RabbitMQ Dream big and dare to fail. DNS Routing NLP Machine Learning Docker Agile
 Database Indexing Python Load Testing Stay hungry, stay foolish. GraphQL Predictive Analytics React Algorithm Containerization
+GraphQL Automation Serverless API Parallel Processing

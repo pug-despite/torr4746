@@ -1,3 +1,4 @@
 Logging Code Review WebSockets Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Great things never come from comfort zones. Database Edge Computing JavaScript Serverless If you can dream it, you can do it. Content Delivery Network Latency Optimization Do what you love and the money will follow.
 Data Pipeline Virtual Machines DNS Routing Big Data React Opportunities don't happen. You create them. Server Response DevOps JavaScript Stay hungry, stay foolish.
 Monitoring Containerization Database Indexing Artificial Intelligence Backend
+API Gateway Database Success doesn’t just find you. You have to go out and get it. Cloud Big Data A/B Testing DevOps Data Pipeline Simplicity is the ultimate sophistication. Security
