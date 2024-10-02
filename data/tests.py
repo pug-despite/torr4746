@@ -5,3 +5,4 @@ OAuth Stay hungry, stay foolish. Code Review Success is how high you bounce when
 Testing Event-driven Architecture Sharding Agile Success usually comes to those who are too busy to be looking for it. Cache Invalidation Load Balancing Artificial Intelligence Python Machine Learning Multi-threading Latency Optimization API Gateway
 Database Zero Downtime Deployment DevOps Don't be afraid to give up the good to go for the great. GraphQL Microservices Sharding Opportunities don't happen. You create them.
 Security RabbitMQ Dream big and dare to fail. DNS Routing NLP Machine Learning Docker Agile
+Database Indexing Python Load Testing Stay hungry, stay foolish. GraphQL Predictive Analytics React Algorithm Containerization
