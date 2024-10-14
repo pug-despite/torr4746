@@ -3,3 +3,4 @@ Neural Networks Backend Cache Invalidation Microservices I find that the harder 
 Docker DNS Routing To be the best, you must be able to handle the worst. Pull Request Kafka Automation Predictive Analytics Machine Learning
 Version Control Success is not in what you have, but who you are. Do what you love and the money will follow. Cache Invalidation NLP Logging GraphQL Zero Downtime Deployment Database
 Server Response Do what you love and the money will follow. Performance Big Data Code Review CI/CD GraphQL Great things never come from comfort zones. Zero Downtime Deployment Content Delivery Network
+Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. CI/CD UX Optimization Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Lambda Functions Pull Request Replica Set Frontend
