@@ -4,3 +4,4 @@ JavaScript NLP Testing Deployment Content Delivery Network Predictive Analytics 
 OAuth Stay hungry, stay foolish. Code Review Success is how high you bounce when you hit bottom. Quantum Computing React Server Response Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions.
 Testing Event-driven Architecture Sharding Agile Success usually comes to those who are too busy to be looking for it. Cache Invalidation Load Balancing Artificial Intelligence Python Machine Learning Multi-threading Latency Optimization API Gateway
 Database Zero Downtime Deployment DevOps Don't be afraid to give up the good to go for the great. GraphQL Microservices Sharding Opportunities don't happen. You create them.
+Security RabbitMQ Dream big and dare to fail. DNS Routing NLP Machine Learning Docker Agile
