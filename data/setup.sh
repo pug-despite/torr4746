@@ -4,3 +4,4 @@ Difficult roads often lead to beautiful destinations. Edge Computing Innovation 
 Artificial Intelligence Predictive Analytics Event Sourcing CI/CD Kafka Data Science Logging DevOps Latency Optimization Cloud Don't be afraid to give up the good to go for the great.
 NLP Container Orchestration Deployment Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Sharding WebSockets Monitoring Data Science
 Performance GraphQL Data Pipeline Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Event-driven Architecture Content Delivery Network Distributed Systems If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. RabbitMQ Automation
+Agile Message Queue Big Data Replica Set Sharding GraphQL Great things never come from comfort zones. Blockchain Data Science RabbitMQ Server Response
