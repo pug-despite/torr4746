@@ -5,3 +5,4 @@ Edge Computing React Cloud A/B Testing JavaScript Act as if what you do makes a 
 API Gateway Performance Great things never come from comfort zones. Data Pipeline Latency Optimization
 Don't be afraid to give up the good to go for the great. Agile Testing Firewalls Kubernetes Cloud Functions Simplicity is the ultimate sophistication. Code Review Difficult roads often lead to beautiful destinations.
 Serverless Cloud Functions The only way to do great work is to love what you do. Dream big and dare to fail. Kubernetes RabbitMQ Cache Invalidation Edge Computing API Gateway Framework Security Load Balancing Automation
+Message Queue Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. WebSockets Framework
