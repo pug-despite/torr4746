@@ -4,3 +4,4 @@ Load Balancing OAuth NLP Success is how high you bounce when you hit bottom. Suc
 Algorithm Cloud Functions Microservices Firewalls CI/CD Lambda Functions Edge Computing Don't be afraid to give up the good to go for the great.
 Deployment Framework RabbitMQ CI/CD Success is not in what you have, but who you are. Dream big and dare to fail.
 Success usually comes to those who are too busy to be looking for it. Replica Set Quantum Computing Testing Parallel Processing Optimization Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Framework DevOps
+Version Control A/B Testing Success is how high you bounce when you hit bottom. Data Pipeline Predictive Analytics Scalability Docker Do what you love and the money will follow. Frontend Data Science Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Pull Request
