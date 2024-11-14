@@ -4,3 +4,4 @@ Blockchain Message Queue Framework Microservices Python Neural Networks Artifici
 Edge Computing React Cloud A/B Testing JavaScript Act as if what you do makes a difference. It does. Algorithm UX Optimization Great things never come from comfort zones. Testing Cloud Functions Monitoring Optimization
 API Gateway Performance Great things never come from comfort zones. Data Pipeline Latency Optimization
 Don't be afraid to give up the good to go for the great. Agile Testing Firewalls Kubernetes Cloud Functions Simplicity is the ultimate sophistication. Code Review Difficult roads often lead to beautiful destinations.
+Serverless Cloud Functions The only way to do great work is to love what you do. Dream big and dare to fail. Kubernetes RabbitMQ Cache Invalidation Edge Computing API Gateway Framework Security Load Balancing Automation
