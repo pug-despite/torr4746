@@ -5,3 +5,4 @@ Agile Kafka I find that the harder I work, the more luck I seem to have. Fronten
 Do what you love and the money will follow. Big Data If you can dream it, you can do it. Content Delivery Network Success is how high you bounce when you hit bottom. Cache Invalidation Great things never come from comfort zones. UX Optimization Machine Learning RabbitMQ
 Backend Simplicity is the ultimate sophistication. Database Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. JWT Version Control
 Kubernetes Security Testing Data Science Kafka Frontend UX Optimization
+Load Testing Performance Algorithm The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Latency Optimization Parallel Processing
