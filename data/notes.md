@@ -1,1 +1,2 @@
 Load Testing Parallel Processing Work hard in silence, let your success be your noise. Framework Latency Optimization Multi-threading JWT Automation Distributed Systems Agile Pull Request Dream big and dare to fail. Success is how high you bounce when you hit bottom. Stay hungry, stay foolish.
+Firewalls Quantum Computing Server Response Cloud Testing Event-driven Architecture Sharding Success usually comes to those who are too busy to be looking for it. Containerization Performance Frontend Framework Agile Event Sourcing
