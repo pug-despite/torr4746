@@ -1,2 +1,3 @@
 React Neural Networks Innovation distinguishes between a leader and a follower. Data Pipeline API Backend
 Database Indexing Scalability OAuth Innovation distinguishes between a leader and a follower. Microservices Kubernetes Event-driven Architecture Database Code Review Stay hungry, stay foolish. Load Balancing CI/CD I find that the harder I work, the more luck I seem to have. Artificial Intelligence
+Message Queue GraphQL Dream big and dare to fail. Act as if what you do makes a difference. It does. Event Sourcing Multi-threading IoT Database Latency Optimization Artificial Intelligence Machine Learning
