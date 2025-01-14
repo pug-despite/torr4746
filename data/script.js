@@ -1,1 +1,2 @@
 Python WebSockets Content Delivery Network Load Balancing Event-driven Architecture Database Pull Request Happiness is not something ready made. It comes from your own actions.
+Big Data Scalability Automation Frontend Blockchain IoT Replica Set Predictive Analytics DevOps Machine Learning Testing I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Success is how high you bounce when you hit bottom.
