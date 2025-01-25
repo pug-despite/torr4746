@@ -1,2 +1,3 @@
 Kafka Lambda Functions Artificial Intelligence Docker GraphQL RabbitMQ Replica Set CI/CD API Gateway Simplicity is the ultimate sophistication. Quantum Computing
 Message Queue React Version Control Success usually comes to those who are too busy to be looking for it. Edge Computing Backend Innovation distinguishes between a leader and a follower. Serverless The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. DNS Routing Cloud Functions Virtual Machines Quantum Computing
+Difficult roads often lead to beautiful destinations. Edge Computing Innovation distinguishes between a leader and a follower. Algorithm Success is how high you bounce when you hit bottom. Agile Testing Event-driven Architecture
